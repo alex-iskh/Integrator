@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser", "Parser\Parser.csproj", "{70AD0B53-CA06-4550-B619-DF2765BEE85C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RectangleMethodLib", "RectangleMethodLib\RectangleMethodLib.csproj", "{1460BFE4-890B-482C-93F4-7027C1DD0A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrapezoidalMethodLib", "TrapezoidalMethodLib\TrapezoidalMethodLib.csproj", "{63AA0656-29AE-4DBE-A941-B340E14CB81B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpsonMethodLib", "SimpsonMethodLib\SimpsonMethodLib.csproj", "{D2E9925E-F692-4F41-BE75-9170429AF7D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegratorClient", "IntegratorClient\IntegratorClient.csproj", "{855B37A0-5164-4CFA-A675-B0DE5856BB7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaExecutorLib", "FormulaExecutorLib\FormulaExecutorLib.csproj", "{2DEC4B7A-4ECB-4121-8671-F855C824CC74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70AD0B53-CA06-4550-B619-DF2765BEE85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70AD0B53-CA06-4550-B619-DF2765BEE85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70AD0B53-CA06-4550-B619-DF2765BEE85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70AD0B53-CA06-4550-B619-DF2765BEE85C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1460BFE4-890B-482C-93F4-7027C1DD0A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1460BFE4-890B-482C-93F4-7027C1DD0A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1460BFE4-890B-482C-93F4-7027C1DD0A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1460BFE4-890B-482C-93F4-7027C1DD0A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AA0656-29AE-4DBE-A941-B340E14CB81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AA0656-29AE-4DBE-A941-B340E14CB81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AA0656-29AE-4DBE-A941-B340E14CB81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AA0656-29AE-4DBE-A941-B340E14CB81B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E9925E-F692-4F41-BE75-9170429AF7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E9925E-F692-4F41-BE75-9170429AF7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E9925E-F692-4F41-BE75-9170429AF7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E9925E-F692-4F41-BE75-9170429AF7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{855B37A0-5164-4CFA-A675-B0DE5856BB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855B37A0-5164-4CFA-A675-B0DE5856BB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855B37A0-5164-4CFA-A675-B0DE5856BB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855B37A0-5164-4CFA-A675-B0DE5856BB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DEC4B7A-4ECB-4121-8671-F855C824CC74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEC4B7A-4ECB-4121-8671-F855C824CC74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEC4B7A-4ECB-4121-8671-F855C824CC74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEC4B7A-4ECB-4121-8671-F855C824CC74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
